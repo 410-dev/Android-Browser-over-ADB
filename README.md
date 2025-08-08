@@ -24,8 +24,8 @@ It acts as a graphical frontend for `adb shell ls`, `adb pull`, and `adb push`, 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/adb-explorer-macos.git
-   cd adb-explorer-macos
+   git clone https://github.com/410-dev/Android-Browser-over-ADB
+   cd Android-Browser-over-ADB
 
 
 ## Note
